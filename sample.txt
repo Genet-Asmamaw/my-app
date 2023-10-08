@@ -1,0 +1,2 @@
+This is my sample text for creating new file using git
+now I understand lots of things and that is great
