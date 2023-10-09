@@ -2,3 +2,5 @@
 - Displaying some text on the browser only using App component
 - Creating another functional component and call from App component and Displaying some text
 - Using props from two functional component 
+
+#. I am clearing some confusions from my mind regards to git and github
