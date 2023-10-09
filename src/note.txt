@@ -3,5 +3,6 @@
 - Creating another functional component and call from App component and Displaying some text
 - Using props from two functional component 
 
-#. I am clearing some confusions from my mind regards to git and github
-#. I am so happy to know many things than ever.
+* the following lines are written on my second github account
+I removed two lines of code 
+Aklile tsige Maryam 
